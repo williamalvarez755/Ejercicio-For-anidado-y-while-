@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\bin\Debug\net10.0\ejercicio 13.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\bin\Debug\net10.0\ejercicio 13.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\bin\Debug\net10.0\ejercicio 13.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\bin\Debug\net10.0\ejercicio 13.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\bin\Debug\net10.0\ejercicio 13.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.sourcelink.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\refint\ejercicio 13.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ejercicio 13.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 13\ejercicio 13\obj\Debug\net10.0\ref\ejercicio 13.dll

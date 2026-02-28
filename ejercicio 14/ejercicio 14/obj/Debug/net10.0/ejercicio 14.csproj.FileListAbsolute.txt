@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\bin\Debug\net10.0\ejercicio 14.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\bin\Debug\net10.0\ejercicio 14.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\bin\Debug\net10.0\ejercicio 14.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\bin\Debug\net10.0\ejercicio 14.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\bin\Debug\net10.0\ejercicio 14.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.sourcelink.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\refint\ejercicio 14.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ejercicio 14.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 14\ejercicio 14\obj\Debug\net10.0\ref\ejercicio 14.dll
