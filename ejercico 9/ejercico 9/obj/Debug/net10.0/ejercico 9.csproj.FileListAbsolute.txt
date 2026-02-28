@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\bin\Debug\net10.0\ejercico 9.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\bin\Debug\net10.0\ejercico 9.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\bin\Debug\net10.0\ejercico 9.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\bin\Debug\net10.0\ejercico 9.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\bin\Debug\net10.0\ejercico 9.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\refint\ejercico 9.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ejercico 9.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercico 9\ejercico 9\obj\Debug\net10.0\ref\ejercico 9.dll
