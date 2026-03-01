@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\bin\Debug\net10.0\ejercicio 24.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\bin\Debug\net10.0\ejercicio 24.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\bin\Debug\net10.0\ejercicio 24.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\bin\Debug\net10.0\ejercicio 24.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\bin\Debug\net10.0\ejercicio 24.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.sourcelink.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\refint\ejercicio 24.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ejercicio 24.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\activadad 14\ejercicio 24\ejercicio 24\obj\Debug\net10.0\ref\ejercicio 24.dll
